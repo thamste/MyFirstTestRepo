@@ -1,3 +1,3 @@
 # MyFirstTestRepo
 
-Hallo Klaus so schauts aus!
+So schauts aus!

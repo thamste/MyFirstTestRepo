@@ -5,9 +5,6 @@
 /.vs
 /ClassLibrary1
 *.vsidx
-<<<<<<< HEAD
-=======
 *.suo
 /ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
 /ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
->>>>>>> pr/3
